@@ -2,9 +2,9 @@
 
 Repositorio para el esqueleto del [TP: shell](https://fisop.github.io/website/tps/shell) del curso Mendez-Fresia de **Sistemas Operativos (7508) - FIUBA**
 
-## Respuestas teóricas
+## Para ampliar respuestas teóricas
 
-Utilizar el archivo `shell.md` provisto en el repositorio
+Leer el archivo `shell.md` provisto en el repositorio
 
 ## Compilar
 
@@ -24,10 +24,3 @@ O si se quire utilizar `valgrind`:
 $ make valgrind
 ```
 
-## Linter
-
-```bash
-$ make format
-```
-
-Para efectivamente subir los cambios producidos por el `format`, hay que `git add .` y `git commit`.
